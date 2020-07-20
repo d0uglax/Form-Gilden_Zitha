@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "forms-2020": {
+      "hosting": {
+        "form": [
+          "forms-2020"
+        ]
+      }
+    }
+  }
+}
